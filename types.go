@@ -1,11 +1,11 @@
 package betterauth
 
 import (
-	"better-auth/internal/auth"
-	"better-auth/internal/config"
-	"better-auth/internal/database"
-	"better-auth/pkg/plugins/core"
-	"better-auth/pkg/transport"
+	"github.com/rpattn/better-auth/internal/auth"
+	"github.com/rpattn/better-auth/internal/config"
+	"github.com/rpattn/better-auth/internal/database"
+	"github.com/rpattn/better-auth/pkg/plugins/core"
+	"github.com/rpattn/better-auth/pkg/transport"
 )
 
 // BetterAuth is the main authentication system

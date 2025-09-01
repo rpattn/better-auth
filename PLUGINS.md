@@ -143,12 +143,12 @@ import (
     "log"
     "time"
 
-    "better-auth/internal/auth"
-    "better-auth/internal/config"
-    "better-auth/internal/database"
-    "better-auth/pkg/plugins/admin"
-    "better-auth/pkg/plugins/jwt"
-    "better-auth/pkg/plugins/organizations"
+    "github.com/rpattn/better-auth/internal/auth"
+    "github.com/rpattn/better-auth/internal/config"
+    "github.com/rpattn/better-auth/internal/database"
+    "github.com/rpattn/better-auth/pkg/plugins/admin"
+    "github.com/rpattn/better-auth/pkg/plugins/jwt"
+    "github.com/rpattn/better-auth/pkg/plugins/organizations"
 )
 
 func main() {

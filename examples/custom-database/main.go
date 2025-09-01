@@ -6,9 +6,9 @@ import (
 	"time"
 
 	betterauth "better-auth"
-	"better-auth/internal/config"
-	"better-auth/pkg/plugins/jwt"
-	"better-auth/pkg/plugins/organizations"
+	"github.com/rpattn/better-auth/internal/config"
+	"github.com/rpattn/better-auth/pkg/plugins/jwt"
+	"github.com/rpattn/better-auth/pkg/plugins/organizations"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlite"

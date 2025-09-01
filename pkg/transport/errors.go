@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"better-auth/internal/models"
+	"github.com/rpattn/better-auth/internal/models"
 )
 
 // RespondError sends a simple error response

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"better-auth/internal/models"
-	"better-auth/pkg/plugins/core"
+	"github.com/rpattn/better-auth/internal/models"
+	"github.com/rpattn/better-auth/pkg/plugins/core"
 
 	"gorm.io/gorm"
 )

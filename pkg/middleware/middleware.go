@@ -3,7 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	"better-auth/internal/auth"
+	"github.com/rpattn/better-auth/internal/auth"
 )
 
 // Middleware provides public middleware utilities for better-auth

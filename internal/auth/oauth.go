@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"better-auth/internal/config"
+	"github.com/rpattn/better-auth/internal/config"
 )
 
 // OAuthService handles OAuth provider integrations

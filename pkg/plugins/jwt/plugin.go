@@ -7,8 +7,8 @@ import (
 	"slices"
 	"time"
 
-	"better-auth/pkg/plugins/core"
-	"better-auth/pkg/transport"
+	"github.com/rpattn/better-auth/pkg/plugins/core"
+	"github.com/rpattn/better-auth/pkg/transport"
 
 	"gorm.io/gorm"
 )

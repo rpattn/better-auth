@@ -1,6 +1,6 @@
 package auth
 
-import "better-auth/internal/models"
+import "github.com/rpattn/better-auth/internal/models"
 
 // Type aliases for backward compatibility
 type User = models.User

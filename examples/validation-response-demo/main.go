@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"net/http/httptest"
 
-	"better-auth/internal/models"
-	"better-auth/pkg/transport"
+	"github.com/rpattn/better-auth/internal/models"
+	"github.com/rpattn/better-auth/pkg/transport"
 )
 
 func main() {

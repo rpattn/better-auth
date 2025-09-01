@@ -1,11 +1,11 @@
 package auth
 
 import (
-	"better-auth/internal/config"
-	"better-auth/internal/database"
-	"better-auth/internal/models"
-	"better-auth/pkg/plugins/core"
-	"better-auth/pkg/transport"
+	"github.com/rpattn/better-auth/internal/config"
+	"github.com/rpattn/better-auth/internal/database"
+	"github.com/rpattn/better-auth/internal/models"
+	"github.com/rpattn/better-auth/pkg/plugins/core"
+	"github.com/rpattn/better-auth/pkg/transport"
 	"context"
 	"fmt"
 	"net/http"

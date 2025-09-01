@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"better-auth/internal/models"
+	"github.com/rpattn/better-auth/internal/models"
 )
 
 // GetUserContext retrieves user context from the request

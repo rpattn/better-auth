@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"better-auth/internal/models"
+	"github.com/rpattn/better-auth/internal/models"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

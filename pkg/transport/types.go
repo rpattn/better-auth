@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"better-auth/internal/models"
+	"github.com/rpattn/better-auth/internal/models"
 	"github.com/go-playground/universal-translator"
 	"github.com/go-playground/validator/v10"
 )

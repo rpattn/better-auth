@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"better-auth/internal/models"
+	"github.com/rpattn/better-auth/internal/models"
 
 	"github.com/golang-jwt/jwt/v5"
 	"gorm.io/gorm"

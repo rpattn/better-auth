@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"better-auth/pkg/transport"
+	"github.com/rpattn/better-auth/pkg/transport"
 )
 
 // AdminHandlers provides HTTP handlers for admin operations

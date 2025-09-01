@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"better-auth/pkg/transport"
+	"github.com/rpattn/better-auth/pkg/transport"
 )
 
 // JWTHandlers provides HTTP handlers for JWT operations

@@ -56,7 +56,7 @@ A modular HTTP transport layer for Better Auth with multi-language validation su
 The public interface remains unchanged. Use the package exactly as before:
 
 ```go
-import "better-auth/pkg/transport"
+import "github.com/rpattn/better-auth/pkg/transport"
 
 // Create transport instance
 t := transport.NewDefault()

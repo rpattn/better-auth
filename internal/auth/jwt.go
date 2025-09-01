@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"better-auth/internal/models"
+	"github.com/rpattn/better-auth/internal/models"
 )
 
 // JWTService handles JWT token generation and validation

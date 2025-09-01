@@ -8,10 +8,10 @@ import (
 	"time"
 
 	betterauth "better-auth"
-	"better-auth/internal/config"
-	"better-auth/pkg/plugins/admin"
-	"better-auth/pkg/plugins/jwt"
-	"better-auth/pkg/plugins/organizations"
+	"github.com/rpattn/better-auth/internal/config"
+	"github.com/rpattn/better-auth/pkg/plugins/admin"
+	"github.com/rpattn/better-auth/pkg/plugins/jwt"
+	"github.com/rpattn/better-auth/pkg/plugins/organizations"
 )
 
 func main() {
