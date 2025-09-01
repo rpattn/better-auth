@@ -1,4 +1,4 @@
-module better-auth
+module github.com/rpattn/better-auth
 
 go 1.24.5
 
