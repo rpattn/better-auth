@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"better-auth/internal/auth"
-	"better-auth/internal/config"
-	"better-auth/internal/database"
-	"better-auth/pkg/middleware"
+	"github.com/rpattn/better-auth/internal/auth"
+	"github.com/rpattn/better-auth/internal/config"
+	"github.com/rpattn/better-auth/internal/database"
+	"github.com/rpattn/better-auth/pkg/middleware"
 
 	"gorm.io/gorm"
 )
